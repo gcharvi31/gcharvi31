@@ -4,7 +4,7 @@
 **gcharvi31/gcharvi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 👩🏻‍🎓 I'm a first year Computer Science masters student at New York University - Courant.
-- 👩🏻‍💻 I was a Data Scientist at IBM
+- 👩🏻‍💻 I have worked as a Data Scientist at IBM
 - 🌱 I’m learning about Machine Learning and how to build ML powered applications
 - 🎓 I completed my bachelors in M.Sc. Economics and B.E. Electrical and Electronics Engineering from BITS Pilani in 2020
 - 😁 My name is pronounced as /ˈtʃɑːrvi/
